@@ -1,1 +1,3 @@
 gzyb-byb 1-st commit 
+
+michal 1-st commit
